@@ -1,4 +1,2 @@
 # Toolscreen barebones config (Doogile)
 A preset config file to setup the barebones (Doogile) projectors and overlay with Toolscreen
-
-Download [HERE]([url](https://github.com/TobiasIsGood/Toolscreen-barebones-config-Doogile-/releases))
