@@ -6,4 +6,4 @@ A preset config file to setup the barebones (Doogile) projectors and overlay wit
 
  # How to use
   - Unzip the folder, and put the new config.toml in your toolscreen folder. (C:/Users/<your username>/.config/toolscreen/)
-  - Once the game is open, press CTRL+I to open the toolscreen config menu. Here, you can change sensitivity, resizing hotkeys, and rebinds.
+  - Once the game is open, press CTRL+I to open the toolscreen config menu. Here, you can change sensitivity, resizing hotkeys, rebinds, etc.
