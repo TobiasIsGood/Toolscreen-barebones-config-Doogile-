@@ -8,4 +8,4 @@ A preset config file to setup the barebones (Doogile) projectors and overlay wit
   - Unzip the folder, and put the new config.toml in your toolscreen folder. (C:/Users/*user*/.config/toolscreen/)
   - Once the game is open, press CTRL+I to open the toolscreen config menu. Here, you can change sensitivity, resizing hotkeys, rebinds, etc.
    - For the built in toolscreen overlay, just change the number of pixels to 11 and center line opacity to 100.
-   - For the custom image overlay, just select the image path in the image overlay, then crop/move it to fit
+   - For the custom image overlay, just set the image path in the image overlay (crop/move it to fit if necessary), then simply make sure the overlay is on both your thin and eyezoom modes for 100% accuracy. Otherwise just have it on your eyezoom mode if you dont want to see it in your thin mode.
